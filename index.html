@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hackensack IMPACT — Crime Data Dashboard</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="badge" aria-hidden="true">HPD</div>
+        <div>
+          <h1>Hackensack IMPACT</h1>
+          <p>Integrated Metrics for Public Accountability &amp; Community Trust</p>
+        </div>
+      </div>
+      <div class="lang-toggle" role="group" aria-label="Language selection">
+        <button class="lang-btn active" data-lang="en">EN</button>
+        <button class="lang-btn" data-lang="es">ES</button>
+      </div>
+    </div>
+    <div class="demo-banner">
+      SAMPLE DATA — this prototype uses generated demo data, not real Hackensack Police Department records.
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="filters" aria-label="Filters">
+      <div class="filter-group">
+        <label for="filter-category">Category</label>
+        <select id="filter-category">
+          <option value="">All Categories</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-district">District</label>
+        <select id="filter-district">
+          <option value="">All Districts</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-range">Date Range</label>
+        <select id="filter-range">
+          <option value="ytd" selected>Year to Date</option>
+          <option value="30">Last 30 Days</option>
+          <option value="90">Last 90 Days</option>
+          <option value="all">All Time</option>
+        </select>
+      </div>
+      <div class="filter-updated" id="last-updated"></div>
+    </section>
+
+    <section class="stat-cards" id="stat-cards" aria-label="Summary statistics"></section>
+
+    <section class="map-section">
+      <h2>Incident Map</h2>
+      <div id="map"></div>
+      <p class="map-caption">Points are jittered within each block for privacy and do not represent exact addresses.</p>
+    </section>
+
+    <section class="table-section">
+      <h2>Incidents by Category</h2>
+      <div class="table-wrap">
+        <table id="category-table">
+          <thead>
+            <tr>
+              <th>Category</th>
+              <th>Definition</th>
+              <th>YTD Count</th>
+              <th>Trend</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Hackensack Police Department &middot; Prototype dashboard &middot; Data shown is illustrative sample data</p>
+    <p>Student prototype by <a href="https://jiya4405.github.io">Jiya Chaudhari</a> (Fairleigh Dickinson University) <p>Hackensack Police Department &middot; Prototype dashboard &middot; Data shown is illustrative sample data</p>middot; Not an official Hackensack Police Department website</p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1809 @@
+{
+  "meta": {
+    "source": "SAMPLE DATA \u2014 for prototype/demo purposes only. Not real HPD records.",
+    "generated": "2026-09-08",
+    "note": "Replace this file with a real export/API feed from Hackensack PD's records management system."
+  },
+  "incidents": [
+    {
+      "id": 38,
+      "date": "2026-01-01",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "West",
+      "block_address": "400 block of Passaic St",
+      "lat": 40.884243,
+      "lng": -74.047455
+    },
+    {
+      "id": 159,
+      "date": "2026-01-06",
+      "category": "Theft",
+      "definition": "Unlawful taking of property without force or threat",
+      "district": "West",
+      "block_address": "500 block of Warren St",
+      "lat": 40.884392,
+      "lng": -74.050945
+    },
+    {
+      "id": 88,
+      "date": "2026-01-07",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "West",
+      "block_address": "400 block of Camden St",
+      "lat": 40.88947,
+      "lng": -74.049392
+    },
+    {
+      "id": 59,
+      "date": "2026-01-10",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "West",
+      "block_address": "300 block of River St",
+      "lat": 40.883559,
+      "lng": -74.046935
+    },
+    {
+      "id": 150,
+      "date": "2026-01-10",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "North",
+      "block_address": "600 block of Union St",
+      "lat": 40.890756,
+      "lng": -74.02705
+    },
+    {
+      "id": 43,
+      "date": "2026-01-11",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "North",
+      "block_address": "300 block of Warren St",
+      "lat": 40.893708,
+      "lng": -74.028661
+    },
+    {
+      "id": 73,
+      "date": "2026-01-12",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "East",
+      "block_address": "400 block of Summit Ave",
+      "lat": 40.892743,
+      "lng": -74.01822
+    },
+    {
+      "id": 14,
+      "date": "2026-01-17",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "East",
+      "block_address": "600 block of Union St",
+      "lat": 40.89161,
+      "lng": -74.018925
+    },
+    {
+      "id": 28,
+      "date": "2026-01-17",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "South",
+      "block_address": "100 block of Main St",
+      "lat": 40.867337,
+      "lng": -74.044137
+    },
+    {
+      "id": 116,
+      "date": "2026-01-17",
+      "category": "Theft",
+      "definition": "Unlawful taking of property without force or threat",
+      "district": "West",
+      "block_address": "200 block of State St",
+      "lat": 40.887868,
+      "lng": -74.050768
+    },
+    {
+      "id": 42,
+      "date": "2026-01-18",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "East",
+      "block_address": "500 block of Essex St",
+      "lat": 40.88346,
+      "lng": -74.012934
+    },
+    {
+      "id": 66,
+      "date": "2026-01-18",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "South",
+      "block_address": "300 block of Central Ave",
+      "lat": 40.87697,
+      "lng": -74.042386
+    },
+    {
+      "id": 92,
+      "date": "2026-01-18",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "North",
+      "block_address": "100 block of Second St",
+      "lat": 40.899068,
+      "lng": -74.022806
+    },
+    {
+      "id": 121,
+      "date": "2026-01-20",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "East",
+      "block_address": "100 block of Passaic St",
+      "lat": 40.877043,
+      "lng": -74.020792
+    },
+    {
+      "id": 91,
+      "date": "2026-01-21",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "West",
+      "block_address": "600 block of Union St",
+      "lat": 40.88031,
+      "lng": -74.051369
+    },
+    {
+      "id": 154,
+      "date": "2026-01-21",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "West",
+      "block_address": "400 block of Union St",
+      "lat": 40.889915,
+      "lng": -74.056147
+    },
+    {
+      "id": 151,
+      "date": "2026-01-24",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "West",
+      "block_address": "200 block of Summit Ave",
+      "lat": 40.895653,
+      "lng": -74.047834
+    },
+    {
+      "id": 163,
+      "date": "2026-01-24",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "South",
+      "block_address": "700 block of State St",
+      "lat": 40.872228,
+      "lng": -74.046352
+    },
+    {
+      "id": 32,
+      "date": "2026-01-25",
+      "category": "Theft",
+      "definition": "Unlawful taking of property without force or threat",
+      "district": "West",
+      "block_address": "600 block of Camden St",
+      "lat": 40.885669,
+      "lng": -74.053422
+    },
+    {
+      "id": 2,
+      "date": "2026-01-27",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "North",
+      "block_address": "200 block of Union St",
+      "lat": 40.896448,
+      "lng": -74.037491
+    },
+    {
+      "id": 158,
+      "date": "2026-01-28",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "East",
+      "block_address": "300 block of Central Ave",
+      "lat": 40.883102,
+      "lng": -74.022257
+    },
+    {
+      "id": 172,
+      "date": "2026-01-30",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "North",
+      "block_address": "300 block of Summit Ave",
+      "lat": 40.890757,
+      "lng": -74.029399
+    },
+    {
+      "id": 110,
+      "date": "2026-01-31",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "East",
+      "block_address": "200 block of Union St",
+      "lat": 40.882049,
+      "lng": -74.016114
+    },
+    {
+      "id": 113,
+      "date": "2026-02-02",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "South",
+      "block_address": "200 block of Central Ave",
+      "lat": 40.867728,
+      "lng": -74.052128
+    },
+    {
+      "id": 146,
+      "date": "2026-02-02",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "South",
+      "block_address": "500 block of Anderson St",
+      "lat": 40.880915,
+      "lng": -74.039013
+    },
+    {
+      "id": 89,
+      "date": "2026-02-04",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "West",
+      "block_address": "400 block of Union St",
+      "lat": 40.882908,
+      "lng": -74.055837
+    },
+    {
+      "id": 17,
+      "date": "2026-02-05",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "West",
+      "block_address": "600 block of State St",
+      "lat": 40.881455,
+      "lng": -74.059246
+    },
+    {
+      "id": 180,
+      "date": "2026-02-07",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "North",
+      "block_address": "300 block of Berry St",
+      "lat": 40.891436,
+      "lng": -74.022256
+    },
+    {
+      "id": 18,
+      "date": "2026-02-10",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "West",
+      "block_address": "300 block of Berry St",
+      "lat": 40.889543,
+      "lng": -74.053844
+    },
+    {
+      "id": 95,
+      "date": "2026-02-11",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "South",
+      "block_address": "600 block of Essex St",
+      "lat": 40.86873,
+      "lng": -74.052589
+    },
+    {
+      "id": 125,
+      "date": "2026-02-12",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "South",
+      "block_address": "100 block of Summit Ave",
+      "lat": 40.876521,
+      "lng": -74.039812
+    },
+    {
+      "id": 34,
+      "date": "2026-02-18",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "West",
+      "block_address": "700 block of Union St",
+      "lat": 40.882243,
+      "lng": -74.057064
+    },
+    {
+      "id": 65,
+      "date": "2026-02-18",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "South",
+      "block_address": "400 block of River St",
+      "lat": 40.86771,
+      "lng": -74.046023
+    },
+    {
+      "id": 68,
+      "date": "2026-02-19",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "West",
+      "block_address": "500 block of Essex St",
+      "lat": 40.890639,
+      "lng": -74.053934
+    },
+    {
+      "id": 112,
+      "date": "2026-02-19",
+      "category": "Theft",
+      "definition": "Unlawful taking of property without force or threat",
+      "district": "South",
+      "block_address": "500 block of Central Ave",
+      "lat": 40.87064,
+      "lng": -74.050129
+    },
+    {
+      "id": 44,
+      "date": "2026-02-22",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "South",
+      "block_address": "300 block of Summit Ave",
+      "lat": 40.870819,
+      "lng": -74.046667
+    },
+    {
+      "id": 46,
+      "date": "2026-02-24",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "South",
+      "block_address": "200 block of Warren St",
+      "lat": 40.869119,
+      "lng": -74.047416
+    },
+    {
+      "id": 76,
+      "date": "2026-02-26",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "East",
+      "block_address": "500 block of Main St",
+      "lat": 40.889866,
+      "lng": -74.016865
+    },
+    {
+      "id": 128,
+      "date": "2026-02-28",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "North",
+      "block_address": "100 block of Essex St",
+      "lat": 40.902993,
+      "lng": -74.027243
+    },
+    {
+      "id": 82,
+      "date": "2026-03-01",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "West",
+      "block_address": "400 block of Prospect Ave",
+      "lat": 40.891103,
+      "lng": -74.048697
+    },
+    {
+      "id": 122,
+      "date": "2026-03-01",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "South",
+      "block_address": "600 block of Anderson St",
+      "lat": 40.878311,
+      "lng": -74.041752
+    },
+    {
+      "id": 123,
+      "date": "2026-03-01",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "South",
+      "block_address": "100 block of Prospect Ave",
+      "lat": 40.879605,
+      "lng": -74.042999
+    },
+    {
+      "id": 30,
+      "date": "2026-03-02",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "South",
+      "block_address": "500 block of Central Ave",
+      "lat": 40.877704,
+      "lng": -74.049572
+    },
+    {
+      "id": 81,
+      "date": "2026-03-02",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "South",
+      "block_address": "200 block of State St",
+      "lat": 40.872374,
+      "lng": -74.038712
+    },
+    {
+      "id": 24,
+      "date": "2026-03-03",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "North",
+      "block_address": "500 block of First St",
+      "lat": 40.88837,
+      "lng": -74.030224
+    },
+    {
+      "id": 103,
+      "date": "2026-03-04",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "West",
+      "block_address": "400 block of Main St",
+      "lat": 40.889118,
+      "lng": -74.049309
+    },
+    {
+      "id": 108,
+      "date": "2026-03-04",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "South",
+      "block_address": "600 block of Prospect Ave",
+      "lat": 40.877623,
+      "lng": -74.047096
+    },
+    {
+      "id": 16,
+      "date": "2026-03-05",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "South",
+      "block_address": "200 block of River St",
+      "lat": 40.878952,
+      "lng": -74.046145
+    },
+    {
+      "id": 77,
+      "date": "2026-03-05",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "North",
+      "block_address": "400 block of First St",
+      "lat": 40.894303,
+      "lng": -74.025177
+    },
+    {
+      "id": 51,
+      "date": "2026-03-06",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "North",
+      "block_address": "100 block of Main St",
+      "lat": 40.888477,
+      "lng": -74.031223
+    },
+    {
+      "id": 133,
+      "date": "2026-03-06",
+      "category": "Theft",
+      "definition": "Unlawful taking of property without force or threat",
+      "district": "South",
+      "block_address": "700 block of Camden St",
+      "lat": 40.868855,
+      "lng": -74.040639
+    },
+    {
+      "id": 21,
+      "date": "2026-03-09",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "East",
+      "block_address": "600 block of Second St",
+      "lat": 40.885123,
+      "lng": -74.026297
+    },
+    {
+      "id": 49,
+      "date": "2026-03-09",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "North",
+      "block_address": "300 block of Passaic St",
+      "lat": 40.901235,
+      "lng": -74.026121
+    },
+    {
+      "id": 8,
+      "date": "2026-03-17",
+      "category": "Theft",
+      "definition": "Unlawful taking of property without force or threat",
+      "district": "South",
+      "block_address": "200 block of Camden St",
+      "lat": 40.876238,
+      "lng": -74.041727
+    },
+    {
+      "id": 69,
+      "date": "2026-03-19",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "West",
+      "block_address": "400 block of Union St",
+      "lat": 40.888767,
+      "lng": -74.059994
+    },
+    {
+      "id": 171,
+      "date": "2026-03-19",
+      "category": "Theft",
+      "definition": "Unlawful taking of property without force or threat",
+      "district": "West",
+      "block_address": "400 block of Passaic St",
+      "lat": 40.881867,
+      "lng": -74.059274
+    },
+    {
+      "id": 137,
+      "date": "2026-03-21",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "North",
+      "block_address": "100 block of Summit Ave",
+      "lat": 40.895836,
+      "lng": -74.036509
+    },
+    {
+      "id": 64,
+      "date": "2026-03-22",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "West",
+      "block_address": "500 block of Warren St",
+      "lat": 40.889699,
+      "lng": -74.051817
+    },
+    {
+      "id": 90,
+      "date": "2026-03-25",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "South",
+      "block_address": "700 block of Passaic St",
+      "lat": 40.87918,
+      "lng": -74.046934
+    },
+    {
+      "id": 170,
+      "date": "2026-03-25",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "East",
+      "block_address": "600 block of Warren St",
+      "lat": 40.887362,
+      "lng": -74.017834
+    },
+    {
+      "id": 83,
+      "date": "2026-03-26",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "West",
+      "block_address": "700 block of Prospect Ave",
+      "lat": 40.886652,
+      "lng": -74.056691
+    },
+    {
+      "id": 52,
+      "date": "2026-03-27",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "East",
+      "block_address": "600 block of Berry St",
+      "lat": 40.887194,
+      "lng": -74.023809
+    },
+    {
+      "id": 178,
+      "date": "2026-03-27",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "East",
+      "block_address": "700 block of Anderson St",
+      "lat": 40.892821,
+      "lng": -74.015408
+    },
+    {
+      "id": 87,
+      "date": "2026-03-28",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "West",
+      "block_address": "500 block of Essex St",
+      "lat": 40.891587,
+      "lng": -74.046552
+    },
+    {
+      "id": 5,
+      "date": "2026-03-29",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "South",
+      "block_address": "100 block of Anderson St",
+      "lat": 40.869488,
+      "lng": -74.037685
+    },
+    {
+      "id": 20,
+      "date": "2026-03-29",
+      "category": "Theft",
+      "definition": "Unlawful taking of property without force or threat",
+      "district": "North",
+      "block_address": "600 block of Central Ave",
+      "lat": 40.891696,
+      "lng": -74.035469
+    },
+    {
+      "id": 56,
+      "date": "2026-04-01",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "West",
+      "block_address": "200 block of Second St",
+      "lat": 40.895581,
+      "lng": -74.048008
+    },
+    {
+      "id": 161,
+      "date": "2026-04-01",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "East",
+      "block_address": "100 block of Camden St",
+      "lat": 40.887186,
+      "lng": -74.018066
+    },
+    {
+      "id": 55,
+      "date": "2026-04-04",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "North",
+      "block_address": "100 block of Camden St",
+      "lat": 40.901383,
+      "lng": -74.034639
+    },
+    {
+      "id": 47,
+      "date": "2026-04-05",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "South",
+      "block_address": "700 block of Essex St",
+      "lat": 40.869524,
+      "lng": -74.03966
+    },
+    {
+      "id": 175,
+      "date": "2026-04-05",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "East",
+      "block_address": "600 block of Anderson St",
+      "lat": 40.884094,
+      "lng": -74.012791
+    },
+    {
+      "id": 176,
+      "date": "2026-04-05",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "South",
+      "block_address": "700 block of Second St",
+      "lat": 40.867969,
+      "lng": -74.048586
+    },
+    {
+      "id": 153,
+      "date": "2026-04-06",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "West",
+      "block_address": "200 block of State St",
+      "lat": 40.882329,
+      "lng": -74.051501
+    },
+    {
+      "id": 6,
+      "date": "2026-04-08",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "North",
+      "block_address": "100 block of First St",
+      "lat": 40.892744,
+      "lng": -74.032497
+    },
+    {
+      "id": 12,
+      "date": "2026-04-08",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "South",
+      "block_address": "300 block of Camden St",
+      "lat": 40.882832,
+      "lng": -74.04276
+    },
+    {
+      "id": 27,
+      "date": "2026-04-13",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "South",
+      "block_address": "200 block of Union St",
+      "lat": 40.87401,
+      "lng": -74.044719
+    },
+    {
+      "id": 53,
+      "date": "2026-04-20",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "North",
+      "block_address": "100 block of Berry St",
+      "lat": 40.88879,
+      "lng": -74.022879
+    },
+    {
+      "id": 130,
+      "date": "2026-04-22",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "West",
+      "block_address": "300 block of River St",
+      "lat": 40.895505,
+      "lng": -74.05248
+    },
+    {
+      "id": 115,
+      "date": "2026-04-23",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "South",
+      "block_address": "700 block of Anderson St",
+      "lat": 40.86995,
+      "lng": -74.052178
+    },
+    {
+      "id": 136,
+      "date": "2026-04-23",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "West",
+      "block_address": "200 block of Central Ave",
+      "lat": 40.881943,
+      "lng": -74.04443
+    },
+    {
+      "id": 10,
+      "date": "2026-04-27",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "South",
+      "block_address": "600 block of Central Ave",
+      "lat": 40.869602,
+      "lng": -74.047316
+    },
+    {
+      "id": 168,
+      "date": "2026-04-27",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "South",
+      "block_address": "600 block of Second St",
+      "lat": 40.877765,
+      "lng": -74.042243
+    },
+    {
+      "id": 177,
+      "date": "2026-04-27",
+      "category": "Theft",
+      "definition": "Unlawful taking of property without force or threat",
+      "district": "North",
+      "block_address": "700 block of Main St",
+      "lat": 40.897604,
+      "lng": -74.027733
+    },
+    {
+      "id": 94,
+      "date": "2026-04-30",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "South",
+      "block_address": "700 block of First St",
+      "lat": 40.87927,
+      "lng": -74.050315
+    },
+    {
+      "id": 126,
+      "date": "2026-04-30",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "South",
+      "block_address": "100 block of Summit Ave",
+      "lat": 40.878196,
+      "lng": -74.037917
+    },
+    {
+      "id": 166,
+      "date": "2026-04-30",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "North",
+      "block_address": "700 block of Second St",
+      "lat": 40.889252,
+      "lng": -74.022536
+    },
+    {
+      "id": 79,
+      "date": "2026-05-02",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "West",
+      "block_address": "700 block of First St",
+      "lat": 40.884147,
+      "lng": -74.056044
+    },
+    {
+      "id": 145,
+      "date": "2026-05-02",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "West",
+      "block_address": "100 block of Summit Ave",
+      "lat": 40.886177,
+      "lng": -74.049381
+    },
+    {
+      "id": 139,
+      "date": "2026-05-04",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "West",
+      "block_address": "500 block of Union St",
+      "lat": 40.8839,
+      "lng": -74.05118
+    },
+    {
+      "id": 37,
+      "date": "2026-05-05",
+      "category": "Theft",
+      "definition": "Unlawful taking of property without force or threat",
+      "district": "West",
+      "block_address": "400 block of State St",
+      "lat": 40.88342,
+      "lng": -74.053583
+    },
+    {
+      "id": 23,
+      "date": "2026-05-06",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "North",
+      "block_address": "100 block of Union St",
+      "lat": 40.88879,
+      "lng": -74.032192
+    },
+    {
+      "id": 107,
+      "date": "2026-05-06",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "West",
+      "block_address": "600 block of Prospect Ave",
+      "lat": 40.892687,
+      "lng": -74.058511
+    },
+    {
+      "id": 15,
+      "date": "2026-05-08",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "West",
+      "block_address": "200 block of Passaic St",
+      "lat": 40.894155,
+      "lng": -74.049714
+    },
+    {
+      "id": 135,
+      "date": "2026-05-08",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "West",
+      "block_address": "300 block of Warren St",
+      "lat": 40.89216,
+      "lng": -74.056743
+    },
+    {
+      "id": 3,
+      "date": "2026-05-10",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "North",
+      "block_address": "400 block of Union St",
+      "lat": 40.89598,
+      "lng": -74.026544
+    },
+    {
+      "id": 22,
+      "date": "2026-05-10",
+      "category": "Theft",
+      "definition": "Unlawful taking of property without force or threat",
+      "district": "East",
+      "block_address": "300 block of Essex St",
+      "lat": 40.879445,
+      "lng": -74.0158
+    },
+    {
+      "id": 67,
+      "date": "2026-05-10",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "South",
+      "block_address": "200 block of Berry St",
+      "lat": 40.87767,
+      "lng": -74.047781
+    },
+    {
+      "id": 141,
+      "date": "2026-05-10",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "South",
+      "block_address": "500 block of Second St",
+      "lat": 40.880129,
+      "lng": -74.048475
+    },
+    {
+      "id": 140,
+      "date": "2026-05-11",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "East",
+      "block_address": "700 block of River St",
+      "lat": 40.890824,
+      "lng": -74.02358
+    },
+    {
+      "id": 80,
+      "date": "2026-05-14",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "West",
+      "block_address": "300 block of Central Ave",
+      "lat": 40.890028,
+      "lng": -74.055606
+    },
+    {
+      "id": 41,
+      "date": "2026-05-16",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "East",
+      "block_address": "500 block of Anderson St",
+      "lat": 40.87791,
+      "lng": -74.019875
+    },
+    {
+      "id": 62,
+      "date": "2026-05-18",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "South",
+      "block_address": "500 block of State St",
+      "lat": 40.882028,
+      "lng": -74.051155
+    },
+    {
+      "id": 36,
+      "date": "2026-05-19",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "North",
+      "block_address": "400 block of State St",
+      "lat": 40.902504,
+      "lng": -74.023178
+    },
+    {
+      "id": 40,
+      "date": "2026-05-19",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "North",
+      "block_address": "700 block of Berry St",
+      "lat": 40.898968,
+      "lng": -74.037085
+    },
+    {
+      "id": 134,
+      "date": "2026-05-19",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "West",
+      "block_address": "700 block of Essex St",
+      "lat": 40.886612,
+      "lng": -74.056999
+    },
+    {
+      "id": 164,
+      "date": "2026-05-19",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "South",
+      "block_address": "700 block of Passaic St",
+      "lat": 40.875494,
+      "lng": -74.038384
+    },
+    {
+      "id": 124,
+      "date": "2026-05-20",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "East",
+      "block_address": "100 block of Anderson St",
+      "lat": 40.887362,
+      "lng": -74.013465
+    },
+    {
+      "id": 109,
+      "date": "2026-05-21",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "South",
+      "block_address": "200 block of Passaic St",
+      "lat": 40.872629,
+      "lng": -74.04574
+    },
+    {
+      "id": 143,
+      "date": "2026-05-22",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "West",
+      "block_address": "200 block of Central Ave",
+      "lat": 40.887286,
+      "lng": -74.054852
+    },
+    {
+      "id": 167,
+      "date": "2026-05-23",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "South",
+      "block_address": "100 block of Berry St",
+      "lat": 40.868445,
+      "lng": -74.046687
+    },
+    {
+      "id": 144,
+      "date": "2026-05-27",
+      "category": "Theft",
+      "definition": "Unlawful taking of property without force or threat",
+      "district": "West",
+      "block_address": "600 block of River St",
+      "lat": 40.883737,
+      "lng": -74.047591
+    },
+    {
+      "id": 31,
+      "date": "2026-05-28",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "West",
+      "block_address": "100 block of Union St",
+      "lat": 40.883888,
+      "lng": -74.052432
+    },
+    {
+      "id": 142,
+      "date": "2026-05-29",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "West",
+      "block_address": "300 block of River St",
+      "lat": 40.893844,
+      "lng": -74.052855
+    },
+    {
+      "id": 84,
+      "date": "2026-05-30",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "North",
+      "block_address": "100 block of Summit Ave",
+      "lat": 40.900708,
+      "lng": -74.02575
+    },
+    {
+      "id": 4,
+      "date": "2026-05-31",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "South",
+      "block_address": "400 block of Central Ave",
+      "lat": 40.879951,
+      "lng": -74.052896
+    },
+    {
+      "id": 119,
+      "date": "2026-05-31",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "West",
+      "block_address": "200 block of First St",
+      "lat": 40.884886,
+      "lng": -74.050064
+    },
+    {
+      "id": 127,
+      "date": "2026-06-03",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "North",
+      "block_address": "100 block of Main St",
+      "lat": 40.901231,
+      "lng": -74.026247
+    },
+    {
+      "id": 50,
+      "date": "2026-06-04",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "East",
+      "block_address": "400 block of Berry St",
+      "lat": 40.888482,
+      "lng": -74.024742
+    },
+    {
+      "id": 78,
+      "date": "2026-06-06",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "West",
+      "block_address": "700 block of Central Ave",
+      "lat": 40.893289,
+      "lng": -74.051234
+    },
+    {
+      "id": 93,
+      "date": "2026-06-09",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "East",
+      "block_address": "200 block of Essex St",
+      "lat": 40.880817,
+      "lng": -74.020423
+    },
+    {
+      "id": 120,
+      "date": "2026-06-10",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "East",
+      "block_address": "500 block of State St",
+      "lat": 40.881234,
+      "lng": -74.026701
+    },
+    {
+      "id": 1,
+      "date": "2026-06-13",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "North",
+      "block_address": "600 block of State St",
+      "lat": 40.8874,
+      "lng": -74.0336
+    },
+    {
+      "id": 114,
+      "date": "2026-06-13",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "West",
+      "block_address": "400 block of Summit Ave",
+      "lat": 40.881641,
+      "lng": -74.059804
+    },
+    {
+      "id": 155,
+      "date": "2026-06-13",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "South",
+      "block_address": "300 block of Warren St",
+      "lat": 40.874353,
+      "lng": -74.042331
+    },
+    {
+      "id": 11,
+      "date": "2026-06-15",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "North",
+      "block_address": "400 block of State St",
+      "lat": 40.896746,
+      "lng": -74.035262
+    },
+    {
+      "id": 33,
+      "date": "2026-06-15",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "North",
+      "block_address": "200 block of Union St",
+      "lat": 40.88797,
+      "lng": -74.026349
+    },
+    {
+      "id": 99,
+      "date": "2026-06-15",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "South",
+      "block_address": "400 block of Anderson St",
+      "lat": 40.867202,
+      "lng": -74.046279
+    },
+    {
+      "id": 138,
+      "date": "2026-06-15",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "East",
+      "block_address": "700 block of Prospect Ave",
+      "lat": 40.884974,
+      "lng": -74.016534
+    },
+    {
+      "id": 48,
+      "date": "2026-06-17",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "North",
+      "block_address": "200 block of Warren St",
+      "lat": 40.897686,
+      "lng": -74.029126
+    },
+    {
+      "id": 75,
+      "date": "2026-06-17",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "North",
+      "block_address": "400 block of First St",
+      "lat": 40.901283,
+      "lng": -74.024233
+    },
+    {
+      "id": 131,
+      "date": "2026-06-21",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "North",
+      "block_address": "600 block of Passaic St",
+      "lat": 40.900724,
+      "lng": -74.032723
+    },
+    {
+      "id": 173,
+      "date": "2026-06-21",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "West",
+      "block_address": "100 block of Camden St",
+      "lat": 40.889397,
+      "lng": -74.048374
+    },
+    {
+      "id": 156,
+      "date": "2026-06-23",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "East",
+      "block_address": "400 block of Camden St",
+      "lat": 40.878182,
+      "lng": -74.012876
+    },
+    {
+      "id": 157,
+      "date": "2026-06-26",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "South",
+      "block_address": "400 block of Second St",
+      "lat": 40.874309,
+      "lng": -74.048166
+    },
+    {
+      "id": 152,
+      "date": "2026-06-27",
+      "category": "Theft",
+      "definition": "Unlawful taking of property without force or threat",
+      "district": "South",
+      "block_address": "300 block of Passaic St",
+      "lat": 40.881455,
+      "lng": -74.052264
+    },
+    {
+      "id": 39,
+      "date": "2026-06-28",
+      "category": "Theft",
+      "definition": "Unlawful taking of property without force or threat",
+      "district": "West",
+      "block_address": "600 block of Essex St",
+      "lat": 40.882477,
+      "lng": -74.055253
+    },
+    {
+      "id": 29,
+      "date": "2026-07-01",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "North",
+      "block_address": "500 block of Anderson St",
+      "lat": 40.890663,
+      "lng": -74.023513
+    },
+    {
+      "id": 106,
+      "date": "2026-07-04",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "West",
+      "block_address": "600 block of Camden St",
+      "lat": 40.887817,
+      "lng": -74.047869
+    },
+    {
+      "id": 7,
+      "date": "2026-07-06",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "West",
+      "block_address": "500 block of Anderson St",
+      "lat": 40.88858,
+      "lng": -74.04443
+    },
+    {
+      "id": 101,
+      "date": "2026-07-07",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "South",
+      "block_address": "400 block of Summit Ave",
+      "lat": 40.876855,
+      "lng": -74.038286
+    },
+    {
+      "id": 86,
+      "date": "2026-07-08",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "East",
+      "block_address": "400 block of Main St",
+      "lat": 40.884812,
+      "lng": -74.023633
+    },
+    {
+      "id": 111,
+      "date": "2026-07-09",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "West",
+      "block_address": "700 block of Anderson St",
+      "lat": 40.884424,
+      "lng": -74.050567
+    },
+    {
+      "id": 160,
+      "date": "2026-07-10",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "West",
+      "block_address": "700 block of Essex St",
+      "lat": 40.893325,
+      "lng": -74.045553
+    },
+    {
+      "id": 129,
+      "date": "2026-07-15",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "East",
+      "block_address": "500 block of State St",
+      "lat": 40.884528,
+      "lng": -74.017576
+    },
+    {
+      "id": 179,
+      "date": "2026-07-15",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "East",
+      "block_address": "700 block of River St",
+      "lat": 40.886382,
+      "lng": -74.014991
+    },
+    {
+      "id": 25,
+      "date": "2026-07-16",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "East",
+      "block_address": "500 block of Passaic St",
+      "lat": 40.879054,
+      "lng": -74.020395
+    },
+    {
+      "id": 9,
+      "date": "2026-07-17",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "South",
+      "block_address": "300 block of Prospect Ave",
+      "lat": 40.882764,
+      "lng": -74.039315
+    },
+    {
+      "id": 98,
+      "date": "2026-07-20",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "North",
+      "block_address": "500 block of Anderson St",
+      "lat": 40.892555,
+      "lng": -74.031146
+    },
+    {
+      "id": 148,
+      "date": "2026-07-20",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "South",
+      "block_address": "300 block of Second St",
+      "lat": 40.872417,
+      "lng": -74.041917
+    },
+    {
+      "id": 70,
+      "date": "2026-07-21",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "South",
+      "block_address": "400 block of Berry St",
+      "lat": 40.87444,
+      "lng": -74.045925
+    },
+    {
+      "id": 118,
+      "date": "2026-07-22",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "East",
+      "block_address": "700 block of Passaic St",
+      "lat": 40.889411,
+      "lng": -74.021914
+    },
+    {
+      "id": 71,
+      "date": "2026-07-23",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "East",
+      "block_address": "700 block of Anderson St",
+      "lat": 40.887542,
+      "lng": -74.023459
+    },
+    {
+      "id": 58,
+      "date": "2026-07-25",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "East",
+      "block_address": "700 block of Prospect Ave",
+      "lat": 40.881269,
+      "lng": -74.015402
+    },
+    {
+      "id": 117,
+      "date": "2026-07-27",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "South",
+      "block_address": "500 block of Essex St",
+      "lat": 40.868363,
+      "lng": -74.049029
+    },
+    {
+      "id": 60,
+      "date": "2026-07-30",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "East",
+      "block_address": "300 block of River St",
+      "lat": 40.880567,
+      "lng": -74.017439
+    },
+    {
+      "id": 102,
+      "date": "2026-07-31",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "South",
+      "block_address": "400 block of Passaic St",
+      "lat": 40.872157,
+      "lng": -74.049072
+    },
+    {
+      "id": 97,
+      "date": "2026-08-01",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "East",
+      "block_address": "500 block of First St",
+      "lat": 40.87863,
+      "lng": -74.01564
+    },
+    {
+      "id": 54,
+      "date": "2026-08-02",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "South",
+      "block_address": "300 block of Main St",
+      "lat": 40.87632,
+      "lng": -74.05063
+    },
+    {
+      "id": 174,
+      "date": "2026-08-02",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "West",
+      "block_address": "600 block of Main St",
+      "lat": 40.88985,
+      "lng": -74.044975
+    },
+    {
+      "id": 13,
+      "date": "2026-08-04",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "North",
+      "block_address": "300 block of Prospect Ave",
+      "lat": 40.890665,
+      "lng": -74.037486
+    },
+    {
+      "id": 104,
+      "date": "2026-08-06",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "South",
+      "block_address": "300 block of River St",
+      "lat": 40.869909,
+      "lng": -74.049606
+    },
+    {
+      "id": 149,
+      "date": "2026-08-07",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "West",
+      "block_address": "500 block of Second St",
+      "lat": 40.895266,
+      "lng": -74.049971
+    },
+    {
+      "id": 61,
+      "date": "2026-08-10",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "North",
+      "block_address": "700 block of Camden St",
+      "lat": 40.90247,
+      "lng": -74.033534
+    },
+    {
+      "id": 26,
+      "date": "2026-08-12",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "West",
+      "block_address": "300 block of Central Ave",
+      "lat": 40.89543,
+      "lng": -74.045137
+    },
+    {
+      "id": 105,
+      "date": "2026-08-14",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "South",
+      "block_address": "200 block of Anderson St",
+      "lat": 40.875893,
+      "lng": -74.044734
+    },
+    {
+      "id": 74,
+      "date": "2026-08-15",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "East",
+      "block_address": "200 block of Union St",
+      "lat": 40.888494,
+      "lng": -74.021856
+    },
+    {
+      "id": 162,
+      "date": "2026-08-20",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "North",
+      "block_address": "200 block of Central Ave",
+      "lat": 40.891943,
+      "lng": -74.030947
+    },
+    {
+      "id": 96,
+      "date": "2026-08-21",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "West",
+      "block_address": "600 block of Essex St",
+      "lat": 40.886346,
+      "lng": -74.04856
+    },
+    {
+      "id": 147,
+      "date": "2026-08-22",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "West",
+      "block_address": "400 block of Anderson St",
+      "lat": 40.880246,
+      "lng": -74.057694
+    },
+    {
+      "id": 35,
+      "date": "2026-08-25",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "North",
+      "block_address": "600 block of Main St",
+      "lat": 40.89409,
+      "lng": -74.024218
+    },
+    {
+      "id": 45,
+      "date": "2026-08-26",
+      "category": "Burglary",
+      "definition": "Unlawful entry into a structure to commit a crime",
+      "district": "North",
+      "block_address": "500 block of Anderson St",
+      "lat": 40.887149,
+      "lng": -74.028061
+    },
+    {
+      "id": 169,
+      "date": "2026-08-29",
+      "category": "Theft",
+      "definition": "Unlawful taking of property without force or threat",
+      "district": "South",
+      "block_address": "500 block of Essex St",
+      "lat": 40.868734,
+      "lng": -74.049259
+    },
+    {
+      "id": 85,
+      "date": "2026-08-30",
+      "category": "Narcotics",
+      "definition": "Violation of controlled substance laws",
+      "district": "South",
+      "block_address": "600 block of Berry St",
+      "lat": 40.871778,
+      "lng": -74.04676
+    },
+    {
+      "id": 132,
+      "date": "2026-08-30",
+      "category": "Domestic Incident",
+      "definition": "Incident occurring between household/family members",
+      "district": "West",
+      "block_address": "300 block of Anderson St",
+      "lat": 40.893017,
+      "lng": -74.051198
+    },
+    {
+      "id": 165,
+      "date": "2026-08-30",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "West",
+      "block_address": "100 block of First St",
+      "lat": 40.895478,
+      "lng": -74.055278
+    },
+    {
+      "id": 72,
+      "date": "2026-09-01",
+      "category": "Assault",
+      "definition": "Unlawful physical attack upon another person",
+      "district": "East",
+      "block_address": "100 block of State St",
+      "lat": 40.887765,
+      "lng": -74.024406
+    },
+    {
+      "id": 100,
+      "date": "2026-09-03",
+      "category": "Robbery",
+      "definition": "Taking property by force or threat of force",
+      "district": "South",
+      "block_address": "200 block of Prospect Ave",
+      "lat": 40.877169,
+      "lng": -74.039741
+    },
+    {
+      "id": 63,
+      "date": "2026-09-04",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "South",
+      "block_address": "700 block of Central Ave",
+      "lat": 40.867612,
+      "lng": -74.043455
+    },
+    {
+      "id": 19,
+      "date": "2026-09-06",
+      "category": "Motor Vehicle Theft",
+      "definition": "Theft or attempted theft of a motor vehicle",
+      "district": "North",
+      "block_address": "600 block of First St",
+      "lat": 40.897885,
+      "lng": -74.036167
+    },
+    {
+      "id": 57,
+      "date": "2026-09-07",
+      "category": "Vandalism",
+      "definition": "Willful destruction or defacement of property",
+      "district": "East",
+      "block_address": "400 block of First St",
+      "lat": 40.891103,
+      "lng": -74.027603
+    }
+  ]
+}
